@@ -24,7 +24,7 @@ Before you start, ensure you have the following installed:
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/akhilrudram/task-manager-app.git
 
 2. **Install the dependencies**:
 
