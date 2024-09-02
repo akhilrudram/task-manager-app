@@ -38,7 +38,7 @@ Before you start, ensure you have the following installed:
 MONGO_URL= mongodb+srv://akhil:123@task-manager-api.ctgae.mongodb.net/TaskManagerDB
 (OR)
 MONGO_URL=mongodb://localhost:27017/TaskManagerDB
-JWT_SECRET=your_jwt_secret
+JWT_SECRET = BVwd8nV1sK
 PORT=3000
 
 4. **Run the application**:
